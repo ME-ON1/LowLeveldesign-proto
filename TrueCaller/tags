@@ -1,0 +1,108 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/dunno/Downloads/BluevioletWastefulSites/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+Account	Account.js	/^  Account: Account,$/;"	p	class:module.exports
+Account	Account.js	/^class Account {$/;"	c
+Address	Address.js	/^  Address: Address,$/;"	p	class:module.exports
+Address	Address.js	/^class Address {$/;"	c
+BI	GenderEnum.js	/^  BI: "bi",$/;"	p	class:GENDER
+Bussiness	Bussiness.js	/^class Bussiness {$/;"	c
+Bussiness	ContactInfo.js	/^const Bussiness = require(".\/Bussiness");$/;"	C
+BussinessHours	Bussiness.js	/^const BussinessHours = require(".\/BussinessHours");$/;"	C
+BussinessHours	BussinessHours.js	/^class BussinessHours {$/;"	c
+BussinessType	Bussiness.js	/^const BussinessType = require(".\/BussinessType");$/;"	C
+BussinessType	BussinessType.js	/^class BussinessType {$/;"	c
+Contact	Contact.js	/^class Contact {$/;"	c
+ContactInfo	ContactInfo.js	/^class ContactInfo {$/;"	c
+ContactInfo	index.js	/^const ContactInfo = require(".\/ContactInfo");$/;"	C
+DAYS	Bussiness.js	/^const DAYS = require(".\/DaysEnum");$/;"	C
+DAYS	DaysEnum.js	/^const DAYS = {$/;"	c
+DONTSAY	GenderEnum.js	/^  DONTSAY: null,$/;"	p	class:GENDER
+ENGINEER	Tags.js	/^  ENGINEER: "engineer",$/;"	p	class:TAGS
+ENTERTAINMENT	Tags.js	/^  ENTERTAINMENT: "enter",$/;"	p	class:TAGS
+FEMALE	GenderEnum.js	/^  FEMALE: "female",$/;"	p	class:GENDER
+FREE	UserCategory.js	/^  FREE: "free",$/;"	p	class:USERCATEGORY
+FRIDAY	DaysEnum.js	/^  FRIDAY: "friday",$/;"	p	class:DAYS
+GENDER	GenderEnum.js	/^export default GENDER = {$/;"	c
+Gender	Gender.js	/^  Gender: Gender,$/;"	p	class:module.exports
+Gender	Gender.js	/^class Gender {$/;"	c
+GlobalContact	GlobalContact.js	/^class GlobalContact {$/;"	c
+GlobalContact	index.js	/^const GlobalContact = require(".\/GlobalContact");$/;"	C
+HOLLYWOOD	Tags.js	/^  HOLLYWOOD: "holly",$/;"	p	class:TAGS
+MALE	GenderEnum.js	/^  MALE: "male",$/;"	p	class:GENDER
+MONDAY	DaysEnum.js	/^  MONDAY: "monday",$/;"	p	class:DAYS
+PAID	UserCategory.js	/^  PAID: "paid",$/;"	p	class:USERCATEGORY
+PersonalInfo	PersonalInfo.js	/^  PersonalInfo: PersonalInfo,$/;"	p	class:module.exports
+PersonalInfo	PersonalInfo.js	/^class PersonalInfo {$/;"	c
+Plan	Plan.js	/^  Plan: Plan,$/;"	p	class:module.exports
+Plan	Plan.js	/^class Plan {$/;"	c
+SATURDAY	DaysEnum.js	/^  SATURDAY: "saturday",$/;"	p	class:DAYS
+SCINECE	Tags.js	/^  SCINECE: "sci",$/;"	p	class:TAGS
+SUNDAY	DaysEnum.js	/^  SUNDAY: "sunday",$/;"	p	class:DAYS
+TAGS	Bussiness.js	/^const TAGS = require(".\/Tags");$/;"	C
+TAGS	BussinessType.js	/^const TAGS = require(".\/Tags");$/;"	C
+TAGS	Tags.js	/^const TAGS = {$/;"	c
+THRUSDAY	DaysEnum.js	/^  THRUSDAY: "thrusday",$/;"	p	class:DAYS
+TUESDAY	DaysEnum.js	/^  TUESDAY: "tuesday",$/;"	p	class:DAYS
+USERCATEGORY	Account.js	/^const USERCATEGORY = require(".\/UserCategory");$/;"	C
+USERCATEGORY	UserCategory.js	/^const USERCATEGORY = {$/;"	c
+User	User.js	/^  User: User,$/;"	p	class:module.exports
+User	User.js	/^class User extends Account {$/;"	c
+User	UserCategory.js	/^const User = require(".\/User");$/;"	C
+WEDNESDAY	DaysEnum.js	/^  WEDNESDAY: "wednesday",$/;"	p	class:DAYS
+addGlobalSpam	GlobalContact.js	/^  addGlobalSpam(spamUser) {$/;"	m	class:GlobalContact
+addNumber	Contact.js	/^  addNumber() {}$/;"	m	class:Contact
+addUserContact	User.js	/^  addUserContact(userInfo) {$/;"	m	class:User
+author	package.json	/^  "author": "",$/;"	s
+checkSpam	GlobalContact.js	/^  checkSpam(queryPhoneNumber) {$/;"	m	class:GlobalContact
+constructor	Account.js	/^  constructor() {$/;"	m	class:Account
+constructor	Address.js	/^  constructor() {$/;"	m	class:Address
+constructor	Bussiness.js	/^  constructor() {$/;"	m	class:Bussiness
+constructor	BussinessHours.js	/^  constructor() {$/;"	m	class:BussinessHours
+constructor	BussinessType.js	/^  constructor() {$/;"	m	class:BussinessType
+constructor	Contact.js	/^  constructor() {$/;"	m	class:Contact
+constructor	ContactInfo.js	/^  constructor(name, number) {$/;"	m	class:ContactInfo
+constructor	GlobalContact.js	/^  constructor() {$/;"	m	class:GlobalContact
+constructor	PersonalInfo.js	/^  constructor() {$/;"	m	class:PersonalInfo
+constructor	Plan.js	/^  constructor() {$/;"	m	class:Plan
+cosntructor	User.js	/^  cosntructor() {$/;"	m	class:User
+costructor	Gender.js	/^  costructor(gender) {$/;"	m	class:Gender
+description	package.json	/^  "description": "",$/;"	s
+exports	Account.js	/^module.exports = {$/;"	c	class:module
+exports	Address.js	/^module.exports = {$/;"	c	class:module
+exports	Gender.js	/^module.exports = {$/;"	c	class:module
+exports	PersonalInfo.js	/^module.exports = {$/;"	c	class:module
+exports	Plan.js	/^module.exports = {$/;"	c	class:module
+exports	User.js	/^module.exports = {$/;"	c	class:module
+getAdderss	Address.js	/^  getAdderss() {$/;"	m	class:Address
+getBussinessHours	BussinessHours.js	/^  getBussinessHours(day) {$/;"	m	class:BussinessHours
+getGlobalContact	GlobalContact.js	/^  getGlobalContact() {$/;"	m	class:GlobalContact
+keywords	package.json	/^  "keywords": [],$/;"	a
+license	package.json	/^  "license": "ISC"$/;"	s
+main	Account.js	/^const main = require(".\/index");$/;"	C
+main	User.js	/^const main = require(".\/index");$/;"	C
+main	index.js	/^const main = new GlobalContact();$/;"	C
+main	package.json	/^  "main": "index.js",$/;"	s
+n	index.js	/^const n = new ContactInfo("sdf", 55555555);$/;"	C
+name	package.json	/^  "name": "blue",$/;"	s
+pushUserInformation	GlobalContact.js	/^  pushUserInformation(contactsInformation) {$/;"	m	class:GlobalContact
+register	Account.js	/^  register(name, passowrd, email, phoneNumber, countrycode, opts) {$/;"	m	class:Account
+removeContact	Account.js	/^  removeContact(contactDetails) {$/;"	m	class:Account
+scripts	package.json	/^  "scripts": {$/;"	o
+setAddressDetails	Address.js	/^  setAddressDetails(addressDetails) {$/;"	m	class:Address
+setBussiness	PersonalInfo.js	/^  setBussiness(details) {$/;"	m	class:PersonalInfo
+setBussinessHours	BussinessHours.js	/^  setBussinessHours(daysAndHoursDetails) {$/;"	m	class:BussinessHours
+setPersonalInformation	PersonalInfo.js	/^  setPersonalInformation(dob, gender) {$/;"	m	class:PersonalInfo
+setUserDetails	PersonalInfo.js	/^  setUserDetails(username, plan, email, phonenumber, countrycode, opts) {$/;"	m	class:PersonalInfo
+setbussinessName	Bussiness.js	/^  setbussinessName({ name, desc, type, details, size }) {$/;"	m	class:Bussiness
+test	package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	s	object:scripts
+user1	index.js	/^const user1 = new User();$/;"	C
+version	package.json	/^  "version": "1.0.0",$/;"	s
