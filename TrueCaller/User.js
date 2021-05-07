@@ -6,11 +6,26 @@ class User extends Account {
 		super();
 		this.usersContacts = {};
 		this.userSpam = {} ;
+		this.userBlockList = {} ;
 	}
 
 	addUserContact(userInfo) {
 		this.usersContacts[userInfo.phoneNumber] = { userInfo };
 		GlobalContact.pushUserInformation(userInfo)
+	}
+
+	addToUserBlockList(ListContact) {
+		if(Array.isArray(ListContact) === true ) {
+			ListContact.forEach(i =>{
+				this.userBlockList[i] = true
+			})
+		}else if(![undefined , null].includes(ListContact) && !isNaN(ListContact) ){
+			this.userBlockList[ListContact] = true ;
+		}
+	}
+
+	removeBlackListNumber(phoneNumber) {
+		delete this.userBlockList[phoneNumber]
 	}
 
 
@@ -21,7 +36,7 @@ class User extends Account {
 
 
 	removeSpamContact(userContact) {
-		delete this.userSpam.userContact ;
+		delete this.userSpam[ userContact ] ;
 	}
 }
 
